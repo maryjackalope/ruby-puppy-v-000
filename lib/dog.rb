@@ -21,4 +21,4 @@ class Dog
   
 end #dog
 
-#error occured because clas method was written erroneousley with one @ instead of @@. Pay attention
+#error occured because class method was written erroneousley with one @ instead of @@. Pay attention
